@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>BOOK PAACE</h1>
+  <h1>BOOK PALACE</h1>
   <p>Fast, powerful, and easy to use Library Management Rest-API</p>
 </div>
 <p align="center">
