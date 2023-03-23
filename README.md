@@ -3,9 +3,6 @@
   <p>Fast, powerful, and easy to use Library Management Rest-API</p>
 </div>
 <p align="center">
- <a href="https://dl.circleci.com/status-badge/redirect/gh/evolinks/book-palace/tree/main">
-    <img src="https://dl.circleci.com/status-badge/img/gh/evolinks/book-palace/tree/main.svg?style=svg" />
-  </a>
   <a href="https://github.com/evolinks/book-palace/actions/workflows/snyk.yml">
     <img src="https://github.com/evolinks/book-palace/actions/workflows/snyk.yml/badge.svg" />
   </a>
@@ -31,7 +28,8 @@
 
 >
 
-- 
+-
+
 ## Installation
 
 > To run this project, you will need to have the following installed. Node v16.0.0 or higher, to install using [nvm](https://github.com/nvm-sh/nvm) and npm
